@@ -1,0 +1,7 @@
+{
+  "name": "Tamur - Universal AI Assistant",
+  "description": "A unified chat interface powered by Gemini. Interact with text, images, video, and audio, with integrated web search and source citations, all in one seamless conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
